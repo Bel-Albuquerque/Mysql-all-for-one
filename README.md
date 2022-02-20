@@ -1,6 +1,6 @@
-## MySQL all for one
+# MySQL all for one
 
-# Contexto
+## Contexto
 
 Aprendendo e praticando querys em banco de dados relaconal
 
